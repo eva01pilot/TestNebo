@@ -2,9 +2,10 @@
 ## Для установки локально введите в консоль
 
 ```
-git clone https://github.com/eva01pilot/TestNebo/tree/master
+git clone -b master https://github.com/eva01pilot/TestNebo.git
 cd TestNebo
-npm i
-npm start
+yarn install
+yarn start
 ```
-
+# Проект размещен по ссылке
+https://eva01pilot.github.io/TestNebo/
